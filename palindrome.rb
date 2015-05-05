@@ -8,3 +8,5 @@ def isPalindrome(string)
   	print true
   end
 end 
+
+isPalindrome("1234321")
